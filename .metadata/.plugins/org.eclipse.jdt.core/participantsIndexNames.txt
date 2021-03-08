@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\jaroslaw_szymanski\Documents\Programowanie\Projekty\Weekop\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1245124835.index
+\AppWeekop\src
+C:\Users\jaroslaw_szymanski\Documents\Programowanie\JavaStart\JavaEE\AppWeekop\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1245124835.index
+\AppWeekop\src
